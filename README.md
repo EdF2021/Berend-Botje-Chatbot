@@ -1,4 +1,5 @@
-# Berend Botje Chatbot Skills  powered by ChatGPT en eigen data
+# Berend Botje Chatbot
+> **powered by ChatGPT 
 
 Kickstarter om snel de Basis van een Chatbot te maken die gebruik maakt van de ChatGPT API en een eigen knowledge base. 
 This repo contains one notebook and two basic Streamlit apps:
